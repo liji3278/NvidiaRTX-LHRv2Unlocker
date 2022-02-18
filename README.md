@@ -23,3 +23,7 @@ Modifying the BIOS is not enough to fully hashrate your graphics card. You also 
 - RTX A4000 - up to 67 MH/s
 - RTX A4500 - not measured
 - RTX A5000 - up to 110 MH/s
+
+# Examples
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_Ti_LHR.jpg?raw=true)
