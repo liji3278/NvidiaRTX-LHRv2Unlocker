@@ -52,3 +52,8 @@ Download the RAR archive, run the installation package inside. After the install
 1. Select "Read, modify and write BIOS from GPU"
 
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/1.jpg?raw=true)
+
+2. Select the graphics card whose BIOS you want to modify from the list. Then select the first option from the list of tasks. You can also change the folder where the original BIOS file will be saved.
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/2.jpg?raw=true)
+
