@@ -1,1 +1,0 @@
-Screenshots from Minerstat Dashboard
