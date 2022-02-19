@@ -11,7 +11,7 @@ In addition, it also modifies files in RTX Axxxx series cards, increasing their 
 Modifying the BIOS is not enough to fully hashrate your graphics card. You also need graphics drivers modified by me. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.
 
 # Supported RTX LHR models and their performance
-- RTX 3060 LHR V2 - up to 40 MH/s
+- RTX 3060 LHR V2 - up to 49 MH/s
 - RTX 3060 Ti LHR - up to 61 MH/s
 - RTX 3070 LHR - up to 57 MH/s
 - RTX 3070 Ti - up to 69 MH/s
@@ -26,4 +26,5 @@ Modifying the BIOS is not enough to fully hashrate your graphics card. You also 
 
 # Examples
 Screenshots from Minerstat Dashboard - mining ETH on 2miners mining pool.
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_LHRV2.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_Ti_LHR.jpg?raw=true)
