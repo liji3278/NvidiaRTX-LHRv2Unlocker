@@ -60,3 +60,9 @@ Download the RAR archive, run the installation package inside. After the install
 3. Wait for all stages to be completed.
 
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/3.jpg?raw=true)
+
+4. That's it, you can start a miner.
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/4.jpg?raw=true)
+
+<i>Remember! To remove the LHR lock, you need a BIOS modification and modified drivers. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.</i>
