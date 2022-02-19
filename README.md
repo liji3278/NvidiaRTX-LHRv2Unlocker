@@ -25,6 +25,10 @@ Modifying the BIOS is not enough to fully hashrate your graphics card. You also 
 - RTX A5000 - up to 110 MH/s
 
 # Examples
-Screenshots from Minerstat Dashboard - mining ETH on 2miners mining pool.
+Screenshots from Minerstat Dashboard - mining ETH on 2miners mining pool. I tested all cards individually, on the same motherboard, plugged directly into the PCI-e x16 slot without risers.
+
+Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing, for believing it would work.
+
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_LHRV2.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_Ti_LHR.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3070_LHR.jpg?raw=true)
