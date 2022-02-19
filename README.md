@@ -42,3 +42,4 @@ Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing
 
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A2000.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A4000.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A5000.jpg?raw=true)
