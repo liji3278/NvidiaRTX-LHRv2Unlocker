@@ -33,3 +33,4 @@ Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_Ti_LHR.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3070_LHR.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3070_Ti.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3080_LHR.jpg?raw=true)
