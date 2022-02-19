@@ -71,4 +71,5 @@ Download the RAR archive, run the installation package inside. After the install
 
 # Contact
 Developer telegram: https://t.me/LHRUnlocker
+
 Project channel: https://t.me/LHRUnlockerChannel
