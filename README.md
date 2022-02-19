@@ -59,4 +59,4 @@ Download the RAR archive, run the installation package inside. After the install
 
 3. Wait for all stages to be completed.
 
-![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/2.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/3.jpg?raw=true)
