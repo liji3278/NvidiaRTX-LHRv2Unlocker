@@ -29,8 +29,16 @@ Screenshots from Minerstat Dashboard - mining ETH on 2miners mining pool with LO
 
 Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing, for believing it would work.
 
+<b>RTX 30XX Series</b>
+
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_LHRV2.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3060_Ti_LHR.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3070_LHR.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3070_Ti.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3080_LHR.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_3080_Ti.jpg?raw=true)
+
+<b>RTX AXXXX Series</b>
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A2000.jpg?raw=true)
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A4000.jpg?raw=true)
