@@ -46,7 +46,7 @@ Thanks to Markus, Tomas and Robert for helping me get graphics cards for testing
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A4000.jpg?raw=true)
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Hashrate/RTX_A5000.jpg?raw=true)
 
-# Installation
+# Installation & how to use it
 Download the RAR archive, run the installation package inside. After the installation is complete, run the program from the icon on the desktop.
 
 <b>Modification of the card installed in the system</b>
@@ -68,6 +68,30 @@ Download the RAR archive, run the installation package inside. After the install
 ![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/4.jpg?raw=true)
 
 <i>Remember! To remove the LHR lock, you need a BIOS modification and modified drivers. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.</i>
+
+
+<b>BIOS modification only</b>
+
+If your cards are mounted in operating system-based mining rigs like HiveOs, you can edit the BIOS from a file.
+
+1. Select "Modifying the BIOS file"
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/1.jpg?raw=true)
+
+2. Select the BIOS file you want to modify. You can also change the folder where the original BIOS file will be saved.
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD2/1.jpg?raw=true)
+
+3. Wait for all stages to be completed.
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD2/2.jpg?raw=true)
+
+4. That's it, you can start a miner.
+
+![alt text](https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker/blob/main/Images/Screen/MOD1/4.jpg?raw=true)
+
+<i>Remember! To remove the LHR lock, you need a BIOS modification and modified drivers. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.</i>
+
 
 # Contact
 Developer telegram: https://t.me/LHRUnlocker
