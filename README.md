@@ -7,6 +7,9 @@ In addition, it also modifies files in RTX Axxxx series cards, increasing their 
 
 <b>Planned release: 02/26/2022 this will be the Early Access version.</b>
 
+# Disclaimer
+I, the creator am not responsible for anything you do with this software. Using the software is free. I forbid the sale of BIOS files modified with this program. I do not agree to copying and reselling the modified version of the drivers.
+
 # Requirements
 Modifying the BIOS is not enough to fully hashrate your graphics card. You also need graphics drivers modified by me. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.
 
@@ -72,7 +75,7 @@ Download the RAR archive, run the installation package inside. After the install
 
 <b>BIOS modification only</b>
 
-If your cards are mounted in operating system-based mining rigs like HiveOs, you can edit the BIOS from a file.
+If your cards are mounted in mining rigs with Linux based OS like HiveOs, you can edit the BIOS from a file.
 
 1. Select "Modifying the BIOS file"
 
@@ -92,6 +95,20 @@ If your cards are mounted in operating system-based mining rigs like HiveOs, you
 
 <i>Remember! To remove the LHR lock, you need a BIOS modification and modified drivers. They are downloaded and installed automatically in Windows when the program is installed. If you are using another OS such as HiveOs etc. then you need to install the drivers manually according to the instructions found in the DRIVER_INSTALATION.txt file in the application installation folder.</i>
 
+# FAQ
+
+<b>What is the price?</b>
+Using the software is free. I forbid the sale of BIOS files modified with this program. I do not agree to copying and reselling the modified version of the drivers.
+If you feel I deserve it, you can donate me.
+
+<b>Will it work with HiveOS?</b>
+Yes, but you must modify the BIOS on a Windows computer. You can find the instructions above.
+
+<b>Is it safe?</b>
+Yes, you can always revert to the original drivers and BIOS.
+
+<b>Isn't that SCAM?</b>
+I provide it for free, the use of this program is the decision of the user. I don't see a SCAM opportunity here. If you decide that it doesn't work for you, you don't need to use it.
 
 # Contact
 Developer telegram: https://t.me/LHRUnlocker
