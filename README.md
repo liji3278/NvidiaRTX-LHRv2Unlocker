@@ -117,5 +117,3 @@ I provide it for free, the use of this program is the decision of the user. I do
 Developer telegram: https://t.me/LHRUnlocker
 
 Project channel: https://t.me/LHRUnlockerChannel
-
-Facebook group: https://www.facebook.com/groups/1093560954548796
