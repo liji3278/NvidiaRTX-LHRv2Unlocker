@@ -98,16 +98,20 @@ If your cards are mounted in mining rigs with Linux based OS like HiveOs, you ca
 # FAQ
 
 <b>What is the price?</b>
+
 Using the software is free. I forbid the sale of BIOS files modified with this program. I do not agree to copying and reselling the modified version of the drivers.
 If you feel I deserve it, you can donate me.
 
 <b>Will it work with HiveOS?</b>
+
 Yes, but you must modify the BIOS on a Windows computer. You can find the instructions above.
 
 <b>Is it safe?</b>
+
 Yes, you can always revert to the original drivers and BIOS.
 
 <b>Isn't that SCAM?</b>
+
 I provide it for free, the use of this program is the decision of the user. I don't see a SCAM opportunity here. If you decide that it doesn't work for you, you don't need to use it.
 
 # Contact
