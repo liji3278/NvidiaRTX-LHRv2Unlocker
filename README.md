@@ -5,7 +5,7 @@ It enables the modification of previously read BIOS files (using HiveOs or other
 
 In addition, it also modifies files in RTX Axxxx series cards, increasing their performance. At the moment, no integration with more modern Nvidia graphics cards is planned.
 
-<b>Planned release: 02/26/2022 this will be the Early Access version.</b>
+<b>Planned release: 02/26/2022 this will be the Early Access version / Public Betatest.</b>
 
 # Disclaimer
 I, the creator am not responsible for anything you do with this software. Using the software is free. I forbid the sale of BIOS files modified with this program. I do not agree to copying and reselling the modified version of the drivers.
